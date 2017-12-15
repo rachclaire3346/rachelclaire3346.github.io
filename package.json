@@ -1,0 +1,23 @@
+{
+  "name": "rachelclaire3346",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachclaire3346/rachelclaire3346.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachclaire3346/rachelclaire3346.github.io/issues"
+  },
+  "homepage": "https://github.com/rachclaire3346/rachelclaire3346.github.io#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
