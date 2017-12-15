@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+h1, h2 {
+	font-family: lavanderia;
+}
+
+h3, h6, h5 {
+	font-family: bebas;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+}
+
+.fixmargins {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.parallax-container {
+    height: 300px;
+}
+
+@font-face {
+    font-family: lavanderia;
+    src: url(fonts/lavanderia/lavan.otf);
+}
+
+@font-face {
+    font-family: bebas;
+    src: url(fonts/bebas_neue/bebas.otf);
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: #26a69a;
+}
+
+nav ul li a.active {
+  color: #26a69a;
+}
